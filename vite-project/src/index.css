@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for the project */
+body {
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Custom colors based on the design */
+:root {
+  --primary-dark: #2C3E50;
+  --primary-teal: #1ABC9C;
+  --secondary-teal: #18BC9C;
+}
